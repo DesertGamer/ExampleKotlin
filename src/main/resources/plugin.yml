@@ -1,0 +1,11 @@
+name: ShoppingCart
+version: '${project.version}'
+main: git.desertgamer.shoppingcart.Main
+api-version: 1.19
+authors: [ MrDefri ]
+commands:
+  heal:
+    description: "Healing your"
+    usage: /<command>
+    permission:
+
